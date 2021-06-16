@@ -1,0 +1,1 @@
+The echo command helps us move some data, usually text into a file. For example, if you want to create a new text file or add to an already made text file, you just need to type in, “echo hello, my name is alok You do not need to separate the spaces by using the backward slash here, because we put in two triangular brackets when we finish what we need to write.
